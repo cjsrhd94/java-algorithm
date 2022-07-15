@@ -1,9 +1,11 @@
+package math;
+
 import java.util.HashSet;
 import java.util.Set;
 import java.util.ArrayList;
 import java.util.Collections;
 
-class Solution {
+class Programmers_두_개_뽑아서_더하기 {
     public int[] solution(int[] numbers) {
         Set<Integer> set = new HashSet<>();
 

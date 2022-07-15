@@ -1,6 +1,6 @@
 package math;
 
-class Solution {
+class Programmers_나머지가_1이_되는_수_찾기 {
     public int solution(int n) {
         int x = 0;
         while (true) {

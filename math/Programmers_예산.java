@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Solution {
+class Programmers_예산 {
     public int solution(int[] d, int budget) {
         Arrays.sort(d);
         int result = 0;
