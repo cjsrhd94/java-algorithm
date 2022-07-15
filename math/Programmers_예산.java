@@ -1,3 +1,5 @@
+package math;
+
 import java.util.Arrays;
 
 class Programmers_예산 {
