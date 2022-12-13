@@ -28,7 +28,7 @@ public class Inf0508_응급실 {
     }
 
     private int solution(int n, int m, int[] arr) {
-        int answer = 0;
+        int answer = 1;
         Queue<Person> queue = new LinkedList<>();
         for (int i = 0; i < n; i++) {
             queue.offer(new Person(i, arr[i]));
